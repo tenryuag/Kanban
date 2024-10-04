@@ -1,0 +1,7 @@
+{
+  // Utilice la versión de TypeScript en el proyecto en lugar de la versión integrada del VSCode
+  "typescript.tsdk": "node_modules/typescript/lib",
+
+  // Prettier をデフォルトフォーマッターにする
+   "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

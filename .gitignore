@@ -6,4 +6,7 @@ node_modules/
 /dist/
 
 # TypeScript
- /.ts-cache/
+/.ts-cache/
+
+# Test
+/test/dist/
